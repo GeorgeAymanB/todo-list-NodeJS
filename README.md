@@ -1,4 +1,8 @@
 # Basic todo list web app made using NodeJS.
+##Before running the app
+- Download nodeJS 
+- In your code editor open the project directory --> open a terminal --> npm init -y
+
 ## Functionality:
 1. Adding tasks using text box and "Add task" button
 2. Tasks are stored in a .txt file "tasks"
